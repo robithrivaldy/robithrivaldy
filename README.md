@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @robithrivaldy
-- 👀 I’m interested in Laravel 8, Flutter, and ReactJS
+- 👀 I’m interested in Laravel 8 and Flutter
 - 🌱 I’m currently learning Flutter
 
 
